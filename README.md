@@ -35,8 +35,7 @@ I'm the founder of **Speed of Light Software, Inc.**, where we create cutting-ed
 ### 🚀 Projects
 - **[Themar Platform](https://themar.sa)**: Partnering to revolutionize financial services with Open Banking APIs.
 - **[EDYO LMS](https://edyo.io)**: A next-gen Learning Management System with AI-driven personalization.  
-- **[JTak](https://jta.app)**: A next-gen Learning Management System with AI-driven personalization.  
-- **Nutera ERP**: Streamlining business workflows for the modern enterprise.  
+- **[JTak](https://jtak.app)**: A Grocery Delivery Apps & Platform.
 
 ---
 
